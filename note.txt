@@ -1,0 +1,5 @@
+Full name
+userName
+email
+password
+repeat password
